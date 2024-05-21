@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ayush Dewangan</h1>
-<h3 align="center">A passionate frontend developer from India currently pursuing B-tech in computer science at Kiit bhubaneshwar.</h3>
+<h3 align="center">A passionate frontend developer from India currently pursuing B-tech in computer science at Kiit bhubaneswar.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ayush-dewan13&label=Profile%20views&color=0e75b6&style=flat" alt="ayush-dewan13" /> </p>
 
