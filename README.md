@@ -15,7 +15,7 @@
 
 - 📫 How to reach me **ayushdewan007@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1qVkZSpUmD-HMhcfMW4IaWCYyHHWDx1gx/view?usp=sharing](https://drive.google.com/file/d/1qVkZSpUmD-HMhcfMW4IaWCYyHHWDx1gx/view?usp=sharing)
+- 📄 Know about my experiences [https://drive.google.com/file/d/17ZalvzoJvv1kfB2Vc70Xtj3MCEfuUAHv/view](https://drive.google.com/file/d/17ZalvzoJvv1kfB2Vc70Xtj3MCEfuUAHv/view)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
